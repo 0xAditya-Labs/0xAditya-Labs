@@ -11,7 +11,8 @@
  
   
   <p>
-    <a href="https://aditya-chauhan-portfolio-beta.vercel.app" target="_blank">
+    <!-- <a href="https://aditya-chauhan-portfolio-beta.vercel.app" target="_blank"> -->
+    <a href="https://adityac.codes" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-LIVE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
   </p>
