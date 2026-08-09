@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>3rd Year CSE Student @ NITJ | Incoming SDE Intern @ <font color="blue">Accenture</font></h3>
+  <h3>3rd Year CSE Student @ NITJ | Ex-SDE Intern @ <font color="blue">Accenture</font></h3>
   <p><b>Building high-performance concurrent web systems and AI-powered apps.</b></p>
   <h3>Software Engineer | Systems Architecture | Competitive Programmer</h3>
  
