@@ -6,7 +6,12 @@
 
 <div align="center">
   <h3>Final Year CSE Student @ NITJ | Ex-SDE Intern @ <font color="blue">Accenture</font></h3>
-  <p><b>Building high-performance concurrent web systems and AI-powered apps.</b></p>
+  <p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+high-performance+concurrent+systems;Engineering+distributed+backend+systems;Building+AI-powered+applications"
+    alt="Typing animation"
+  />
+</p>
   <h3>Software Engineer | Systems Architecture | Competitive Programmer | GenAI | Web Developer</h3>
  
   
@@ -67,7 +72,7 @@ I am a Computer Science undergraduate at NIT Jalandhar and an incoming SDE Inter
 
 <div align="center">
   <h3>Let's Build 🤝</h3>
-  <p>Always open to discussing system architectures in deapth, Hackathons, open-source building, or algorithmic optimizations.</p>
+  <p>Always open to discussing system architectures in depth, Hackathons, open-source building, or algorithmic optimizations.</p>
   <br>
   <i>Jai Parmatma</i> 🪈🦚
 </div>
