@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>Final Year CSE Student @ NITJ | Ex-SDE Intern @ <font color="blue">Accenture</font></h3>
+  <h3>Final Year CSE Student @ NITJ | Ex-AEH Intern @ <font color="blue">Accenture</font></h3>
   <p>
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+high-performance+concurrent+systems;Engineering+distributed+backend+systems;Building+AI-powered+applications"
@@ -34,10 +34,10 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Science undergraduate at NIT Jalandhar and an incoming SDE Intern at Accenture. My focus is on the deep mechanics of software—from memory-safe concurrent C++ architectures to hybrid RAG pipelines to scalable Backend systems and fast frontend systems. I believe in building for scale, contributing to complex open-source ecosystems, and mastering core fundamentals. 
+I am a Computer Science undergraduate at NIT Jalandhar and an incoming Ex-AEH Intern at Accenture. My focus is on the deep mechanics of software—from memory-safe concurrent C++ architectures to hybrid RAG pipelines to scalable Backend systems and fast frontend systems. I believe in building for scale, contributing to complex open-source ecosystems, and mastering core fundamentals. 
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering @ NIT Jalandhar 
-- 💼 **Experience:** SDE Intern @ Accenture | Core Team Co-Lead @ GDG NITJ
+- 💼 **Experience:** Ex-AEH Intern @ Accenture | Core Team Co-Lead @ GDG NITJ
 - 🧠 **Obsessions:** Data Structures & Algorithms, Distributed Systems, Concurrency, OOP, and Low-Level Abstractions.
 - ⚡ **Fun Fact:** I love bridging the gap between high-level architectural abstractions and low-level system execution. I believe the best engineers can dive deep into the OS layer just as easily as they build the client-facing UI.
 
