@@ -129,7 +129,7 @@
 
 <br>
 
-<p>I build complete and intelligent systems, not isolated features — I'm equally comfortable optimizing what happens at the OS/memory layer for my backend API, a database query and what a user actually clicks on the UI. My focus stays on the boundary most people skip: what makes a system correct <i>and</i> fast under real-world concurrent load, not just correct in a demo.</p>
+<p>I build complete systems, not isolated features — I'm equally comfortable optimizing what happens at the OS/memory layer and what a user actually clicks on. My focus stays on the boundary most people skip: what makes a system correct and fast under real concurrent load, not just correct in a demo.</p>
 
 <ul>
   <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar, Final Year</li>
