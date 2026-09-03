@@ -1,0 +1,18 @@
+{
+  "leetcode": {
+    "currentRating": null,
+    "maxRating": null
+  },
+  "codeforces": {
+    "currentRating": 1352,
+    "maxRating": 1418,
+    "currentRank": "pupil",
+    "maxRank": "specialist"
+  },
+  "codechef": {
+    "currentRating": 1593,
+    "maxRating": 1661,
+    "stars": "2-Star",
+    "maxStars": "3-Star"
+  }
+}
