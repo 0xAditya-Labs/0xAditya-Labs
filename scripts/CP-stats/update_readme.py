@@ -37,11 +37,23 @@ def update_readme():
 
     stats_html = f"""
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><img src="https://skillicons.dev/icons?i=leetcode" width="22" align="center" /> &nbsp;<b>LeetCode:</b> Achieved {lc.get('title') or 'Knight'} status (Max Rating: {lc_max})</li>
+  <li>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp;
+    <font color="#2ea44f"><b>LeetCode</b></font> -- {lc.get('title') or 'Knight'} (Max Rating: {lc_max})&nbsp;
+    <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
   <br>
-  <li><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" align="center" /> &nbsp;<b>Codeforces:</b> {cf_title} (Max Rating: {cf_max})</li>
+  <li>
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp;
+    <font color="#2ea44f"><b>Codeforces</b></font> -- {cf_title} (Max Rating: {cf_max})&nbsp;
+    <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
   <br>
-  <li><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" align="center" /> &nbsp;<b>CodeChef:</b> {cc_stars_emoji} (Max Rating: {cc_max})</li>
+  <li>
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp;
+    <font color="#2ea44f"><b>CodeChef</b></font> -- {cc_stars_emoji} (Max Rating: {cc_max})&nbsp;
+    <a href="https://www.codechef.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
 </ul>
 """
 

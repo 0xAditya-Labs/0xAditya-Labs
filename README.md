@@ -4,9 +4,7 @@
   <br><br>
 
   <h3>Final Year CSE Student @ NITJ | Ex-AEH Intern @ Accenture</h3>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+high-performance+concurrent+systems;Engineering+distributed+backend+systems;Shipping+production-ready+full-stack+products;Building+AI-powered+applications;Writing+code+that+scales+from+the+OS+layer+to+the+UI" alt="Typing animation" />
-  </p>
+  <p><b>Open to - full-time SDE roles, 2027 | Winter Intern role 2027(Jan - June)</b></p>
   <p>
     <a href="https://adityac.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio--adityac.codes-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   </p>
@@ -56,69 +54,51 @@
 
 ## <div align="center">`~/algorithmic_engine`</div>
 
-### <div align="center">`/algorithmic_coding_competitions`</div>
+### `/algorithmic_coding_competitions`
 <ul>
   <li><b>Meta Hacker Cup:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
   <li><b>Flipkart GRiD:</b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
   <li><b>CodeStorm:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
 </ul>
 
-### <div align="center">`/coding_profiles`</div>
+### `/coding_profiles`
 <!-- STATS:START -->
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><img src="https://skillicons.dev/icons?i=leetcode" width="22" align="center" /> &nbsp;<b>LeetCode:</b> Achieved Knight status (Max Rating: 1965)</li>
+  <li>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp;
+    <font color="#2ea44f"><b>LeetCode</b></font> -- Knight (Max Rating: 1965)&nbsp;
+    <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
   <br>
-  <li><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" align="center" /> &nbsp;<b>Codeforces:</b> Specialist (Max Rating: 1418)</li>
+  <li>
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp;
+    <font color="#2ea44f"><b>Codeforces</b></font> -- Specialist (Max Rating: 1418)&nbsp;
+    <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
   <br>
-  <li><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" align="center" /> &nbsp;<b>CodeChef:</b> ★★★ (Max Rating: 1661)</li>
+  <li>
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp;
+    <font color="#2ea44f"><b>CodeChef</b></font> -- ★★★ (Max Rating: 1661)&nbsp;
+    <a href="https://www.codechef.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
 </ul>
 <!-- STATS:END -->
 
 <br>
 ---
 
-## <div align="center">`~/the_arsenal`</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>[Systems & Backend]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,c,nodejs,express,fastapi" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>[GenAI & ML]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br><br>
-      <b>[Infrastructure & Observability]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=linux,git,github,mongo,mysql,docker,postman" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br><br>
-      <b>[Frontend & Product]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css" />
-    </td>
-  </tr>
-</table>
-
-<br>
----
-
-## <div align="center">`~/stats`</div>
+<!-- ## <div align="center">`~/stats`</div> -->
 
 <!-- FUTURE:STATS_RADAR:START -->
 <!-- FUTURE:STATS_RADAR:END -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAditya-Labs&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAditya-Labs&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=0xAditya-Labs&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAditya-Labs&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" /> -->
+<!-- </p> -->
 
-<br>
----
+<!-- <br> -->
+<!-- --- -->
 
 ## <div align="center">`~/about_me`</div>
 
@@ -128,18 +108,24 @@
 
 <br>
 
-<p>Computer Science undergraduate at NIT Jalandhar. I build complete systems—from low-level memory models down to hyper-optimized, high-speed user interfaces. My work spans concurrent C++ servers, distributed real-time platforms, AI observability pipelines, and production React apps. I care about the entire stack working together seamlessly, whether that means shaving milliseconds off backend execution or optimizing every byte on the frontend.</p>
+<p>I build complete systems, not isolated features — I'm equally comfortable optimizing what happens at the OS/memory layer and what a user actually clicks on. My focus stays on the boundary most people skip: what makes a system correct <i>and</i> fast under real concurrent load, not just correct in a demo.</p>
 
 <ul>
-  <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar</li>
+  <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar, Final Year</li>
   <li>💼 <b>Experience:</b>
     <ul>
-      <li>Ex-AEH Intern @ Accenture</li>
-      <li>Core Team Co-Lead @ GDG NITJ</li>
+      <li>Ex - Software Engineer Intern @ <a href="https://www.accenture.com/in-en">Accenture</a>, Bangalore (May-Aug 2026)</li>
+      <li>CP Team Lead @ <a href="https://gdg.community.dev/gdg-on-campus-dr-b-r-ambedkar-national-institute-of-technology-jalandhar-jalandhar-india/">Google Developer Group, NITJ</a></li>
     </ul>
   </li>
-  <li>🧠 <b>Obsessions:</b> Data Structures & Algorithms, Distributed Systems, Concurrency, OOP, and Low-Level Abstractions.</li>
-  <li>⚡ <b>Fun Fact:</b> I love bridging the gap between high-level architectural abstractions and low-level system execution. I believe the best engineers can dive deep into the OS layer just as easily as they build the client-facing UI.</li>
+  <li>🧠 <b>Obsessions:
+  <ul>
+      <li>DSA & CP, competitive-programming-grade problem solving</li>
+      <li>Systems that don't lie to users under load — correctness under concurrency, not just happy-path demos</li>
+      <li>AI tools that remove friction, not thinking — no LLM-wrapper shipping</li>
+    </ul>
+  </li>
+  <li>⚡ <b>Fun Fact:</b> I love bridging the gap between high-level architectural abstractions and low-level system execution. I believe the best engineers can dive deep into the OS layer to get the backend system optimized just as easily as they build the client-facing UI effciciently yet in quick agile way.</li>
 </ul>
 
 <br>
