@@ -21,44 +21,62 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/SwiftCache">SwiftCache</a></b></h3>
-      <p><b>15,000+ QPS | &lt;3ms p99 latency</b></p>
+      <h3><b><font color="#1f8acb">SwiftCache</font></b></h3>
+      <p><font color="#2ea44f"><b>15,000+ QPS | &lt;3ms p99 latency</b></font></p>
       <p>Thread-safe TCP-based concurrent LRU cache server supporting deterministic <b>O(1)</b> operations.</p>
-      <code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code>
+      <h4><code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code></h4>
+      <div align="right">
+        <a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/My-Chat-App">Chatty</a></b></h3>
-      <p><b>0% observed message loss | &lt;50ms latency @ 500+ clients</b><br><b><a href="https://github.com/0xAditya-Labs/My-Chat-App">[Live Link]</a></b></p>
+      <h3><b><font color="#1f8acb">Chatty</font></b></h3>
+      <p><font color="#2ea44f"><b>0% observed message loss | &lt;50ms latency @ 500+ clients</b></font></p>
       <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p>
-      <code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code>
+      <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4>
+      <div align="right">
+        <a href="https://github.com/0xAditya-Labs/My-Chat-App" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://github.com/0xAditya-Labs/My-Chat-App" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/ContextIQ">ContextIQ</a></b></h3>
-      <p><b>34% token usage reduction | 69% latency slash</b><br><b><a href="https://context-iq-frontend-seven.vercel.app/">[Live Link]</a></b></p>
+      <h3><b><font color="#1f8acb">ContextIQ</font></b></h3>
+      <p><font color="#2ea44f"><b>34% token usage reduction | 69% latency slash</b></font></p>
       <p>LangGraph ReAct agent with docstring tool-gating and thread-safe ChromaDB client tracing via OpenTelemetry.</p>
-      <code>LangGraph</code> <code>ChromaDB</code> <code>OpenTelemetry</code>
+      <h4><code>LangGraph</code> <code>ChromaDB</code> <code>OpenTelemetry</code></h4>
+      <div align="right">
+        <a href="https://context-iq-frontend-seven.vercel.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender">RetainOps</a></b></h3>
-      <p><b>63.8% revenue-at-risk captured</b></p>
-      <p>AI-Powered Customer Retention Platform deploying production-ready ML inference across tuned classifiers.</p>
-      <code>React</code> <code>FastAPI</code> <code>Scikit-learn</code> <code>SHAP</code>
+      <h3><b><font color="#1f8acb">RetainOps</font></b></h3>
+      <p><font color="#2ea44f"><b>63.8% revenue-at-risk captured</b></font></p>
+      <p>Targeted top 20% of customers via a custom Master Model Score across 5 tuned classifiers. Improved reliability by engineering 9 features from 7,100+ records, mitigating a 3:1 imbalance with SMOTE and SHAP.</p>
+      <h4><code>React</code> <code>FastAPI</code> <code>Scikit-learn</code> <code>SHAP</code></h4>
+      <div align="right">
+        <a href="https://isp-customer-retention-recommender-chi.vercel.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
+      </div>
     </td>
   </tr>
 </table>
 
 <br>
+
+<!-- FUTURE:OPEN_SOURCE:START -->
+<!-- FUTURE:OPEN_SOURCE:END -->
 ---
 
 ## <div align="center">`~/algorithmic_engine`</div>
 
 ### `/algorithmic_coding_competitions`
 <ul>
-  <li><b>Meta Hacker Cup:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
-  <li><b>Flipkart GRiD:</b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
-  <li><b>CodeStorm:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
+  <li><b><font color="#1f8acb">Meta Hacker Cup:</font></b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
+  <li><b><font color="#1f8acb">Flipkart GRiD:</font></b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
+  <li><b><font color="#1f8acb">CodeStorm:</font></b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
 </ul>
 
 ### `/coding_profiles`
@@ -79,26 +97,25 @@
   <li>
     <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp;
     <font color="#2ea44f"><b>CodeChef</b></font> -- ★★★ (Max Rating: 1661)&nbsp;
-    <a href="https://www.codechef.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+    <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
 </ul>
 <!-- STATS:END -->
 
+
+<!-- FUTURE:HACKATHONS:START -->
+<!-- FUTURE:HACKATHONS:END -->
+
 <br>
 ---
 
-<!-- ## <div align="center">`~/stats`</div> -->
-
-<!-- FUTURE:STATS_RADAR:START -->
+<!-- FUTURE:STATS_RADAR:START it stats like stars etc etc-->
 <!-- FUTURE:STATS_RADAR:END -->
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=0xAditya-Labs&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAditya-Labs&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" /> -->
-<!-- </p> -->
-
-<!-- <br> -->
-<!-- --- -->
+<!-- ADD EXPERIENCE -->
+<!-- ADD TECHH STACK/ARSENEL -->
+<!-- ADD ACHIEVEMENTS -->
+<!--  -->
 
 ## <div align="center">`~/about_me`</div>
 
@@ -108,7 +125,7 @@
 
 <br>
 
-<p>I build complete systems, not isolated features — I'm equally comfortable optimizing what happens at the OS/memory layer and what a user actually clicks on. My focus stays on the boundary most people skip: what makes a system correct <i>and</i> fast under real concurrent load, not just correct in a demo.</p>
+<p>I build complete and intelligent systems, not isolated features — I'm equally comfortable optimizing what happens at the OS/memory layer for my backend API, a database query and what a user actually clicks on the UI. My focus stays on the boundary most people skip: what makes a system correct <i>and</i> fast under real-world concurrent load, not just correct in a demo.</p>
 
 <ul>
   <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar, Final Year</li>
@@ -125,7 +142,9 @@
       <li>AI tools that remove friction, not thinking — no LLM-wrapper shipping</li>
     </ul>
   </li>
-  <li>⚡ <b>Fun Fact:</b> I love bridging the gap between high-level architectural abstractions and low-level system execution. I believe the best engineers can dive deep into the OS layer to get the backend system optimized just as easily as they build the client-facing UI effciciently yet in quick agile way.</li>
+  
+  <li>🔍 <b>Ask me about:</b> concurrency handling, RAG chunking strategy, OS internals, DBMS recovery models to memory layout (ARIES), GenAI, React frontends</li>
+  <li>⚡ <b>Fun Fact:</b> I play with VFX to make superhero videos occasionally that further produce new creative ideas.</li>
 </ul>
 
 <br>
@@ -133,9 +152,9 @@
 
 ## <div align="center">`~/the_human`</div>
 
-I’m a nerd at heart — I love **maths and physics** just as much as I love coding and technology. I enjoy going down **research rabbit holes**, and when I’m not building something, there’s a good chance I’m **drawing** — usually a Pokémon, because apparently that’s my default creative mode.
+I’m a nerd at heart — I love **maths and physics** just as much as I love coding and technology. I enjoy going down **research rabbit holes**, and when I’m not building something, there’s a good chance I’m **drawing** — usually someone from Pokémon, because apparently that’s my default creative mode.
 
-Outdoors, I’m usually playing **badminton or swimming**. Indoors are reserved for **dancing, cracking jokes, doing deep and fun conversations, or occasionally writing stories**. I somehow keep ending up in situations where people hand me responsibility, so I’ve learned to enjoy **taking ownership, bringing people together, and making sure things actually get done**.
+Outdoors, I’m usually playing **badminton or swimming**. Indoors are reserved for **dancing, gymnastics, cracking jokes, doing deep and fun conversations, or occasionally writing stories**. I somehow keep ending up in situations where people hand me responsibility, so I’ve learned to enjoy **taking ownership, bringing people together, being and unfurling positivity and making sure things actually get done**.
 
 And when it’s time to switch off, you’ll probably find me somewhere in the **MCU or an anime universe**. That’s all part of the lore.
 

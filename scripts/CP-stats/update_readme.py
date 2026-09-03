@@ -52,7 +52,7 @@ def update_readme():
   <li>
     <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp;
     <font color="#2ea44f"><b>CodeChef</b></font> -- {cc_stars_emoji} (Max Rating: {cc_max})&nbsp;
-    <a href="https://www.codechef.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+    <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
 </ul>
 """
