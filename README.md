@@ -22,8 +22,8 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank">SwiftCache</a></b></h3>
-      <p>🚀 <b>15,000+ QPS | &lt;3ms p99 latency</b></p>
+      <h2><a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank">SwiftCache</a></h2>
+      <p><kbd>15,000+ QPS | &lt;3ms p99 latency</kbd></p>
       <p>Thread-safe TCP-based concurrent LRU cache server supporting deterministic <b>O(1)</b> operations.</p>
       <h4><code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code></h4>
       <div align="right">
@@ -31,8 +31,8 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/My-Chat-App" target="_blank">Chatty</a></b></h3>
-      <p>🛡️ <b>0% observed message loss | &lt;50ms latency @ 500+ clients</b></p>
+      <h2><a href="https://github.com/0xAditya-Labs/My-Chat-App" target="_blank">Chatty</a></h2>
+      <p><kbd>0% observed message loss | &lt;50ms latency @ 500+ clients</kbd></p>
       <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p>
       <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4>
       <div align="right">
@@ -43,8 +43,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank">ContextIQ</a></b></h3>
-      <p>⚡ <b>34% token usage reduction | 69% latency slash</b></p>
+      <h2><a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank">ContextIQ</a></h2>
+      <p><kbd>34% token usage reduction | 69% latency slash</kbd></p>
       <p>LangGraph ReAct agent with docstring tool-gating and thread-safe ChromaDB client tracing via OpenTelemetry.</p>
       <h4><code>LangGraph</code> <code>ChromaDB</code> <code>OpenTelemetry</code></h4>
       <div align="right">
@@ -53,8 +53,8 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3><b><a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank">RetainOps</a></b></h3>
-      <p>📈 <b>63.8% revenue-at-risk captured</b></p>
+      <h2><a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank">RetainOps</a></h2>
+      <p><kbd>63.8% revenue-at-risk captured</kbd></p>
       <p>Targeted top 20% of customers via a custom Master Model Score across 5 tuned classifiers. Improved reliability by engineering 9 features from 7,100+ records, mitigating a 3:1 imbalance with SMOTE and SHAP.</p>
       <h4><code>React</code> <code>FastAPI</code> <code>Scikit-learn</code> <code>SHAP</code></h4>
       <div align="right">
@@ -156,11 +156,11 @@
 
 ## <div align="center">`~/the_human`</div>
 
-I’m a nerd at heart — I love **maths and physics** just as much as I love coding and technology. I enjoy going down **research rabbit holes**, and when I’m not building something, there’s a good chance I’m **drawing** — usually someone from Pokémon, because apparently that’s my default creative mode.
+I'm a nerd at heart — **maths, physics, and research rabbit holes** get me as excited as code does. When I'm not building something, there's a good chance I'm either **writing stories or drawing Pokémon** — my default creative modes.
 
-Outdoors, I’m usually playing **badminton or swimming**. Indoors are reserved for **dancing, gymnastics, cracking jokes, doing deep and fun conversations, or occasionally writing stories**. I somehow keep ending up in situations where people hand me responsibility, so I’ve learned to enjoy **taking ownership, bringing people together, being and unfurling positivity and making sure things actually get done**.
+Outside of tech, I have way too much energy: you'll find me doing **badminton, swimming, dancing, or gymnastics.** People keep handing me responsibility, and I've learned to enjoy **bringing people together, unfurling positivity, and getting things done.**
 
-And when it’s time to switch off, you’ll probably find me somewhere in the **MCU or an anime universe**. That’s all part of the lore.
+Switching off means the **MCU or an anime universe.** No exceptions.
 
 <div align="center">
   <br>
