@@ -178,5 +178,7 @@ Switching off means the **MCU or an anime universe.** No exceptions.
 
 <div align="center">
   <br>
+  <i>Lets connect 🤝</i> 
+  <br/><br/>
   <i>Jai Parmatma</i> 🪈🦚
 </div>
