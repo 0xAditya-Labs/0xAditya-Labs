@@ -13,8 +13,11 @@
   </p>
 </div>
 
-<br>
+<br><br>
+
 ---
+
+<br>
 
 ## <div align="center">`~/what_i_built`</div>
 
@@ -23,7 +26,7 @@
   <tr>
     <td width="50%" valign="top">
       <h2><a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank">SwiftCache</a></h2>
-      <p><kbd>15,000+ QPS | &lt;3ms p99 latency</kbd></p>
+      <p><img src="https://img.shields.io/badge/15%2C000%2B%20QPS%20%7C%20%3C3ms%20p99%20latency-2ea44f?style=flat-square" alt="metric" /></p>
       <p>Thread-safe TCP-based concurrent LRU cache server supporting deterministic <b>O(1)</b> operations.</p>
       <h4><code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code></h4>
       <div align="right">
@@ -32,7 +35,7 @@
     </td>
     <td width="50%" valign="top">
       <h2><a href="https://github.com/0xAditya-Labs/My-Chat-App" target="_blank">Chatty</a></h2>
-      <p><kbd>0% observed message loss | &lt;50ms latency @ 500+ clients</kbd></p>
+      <p><img src="https://img.shields.io/badge/0%25%20msg%20loss%20%7C%20%3C50ms%20latency%20@%20500%2B%20clients-2ea44f?style=flat-square" alt="metric" /></p>
       <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p>
       <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4>
       <div align="right">
@@ -44,7 +47,7 @@
   <tr>
     <td width="50%" valign="top">
       <h2><a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank">ContextIQ</a></h2>
-      <p><kbd>34% token usage reduction | 69% latency slash</kbd></p>
+      <p><img src="https://img.shields.io/badge/34%25%20token%20reduction%20%7C%2069%25%20latency%20slash-2ea44f?style=flat-square" alt="metric" /></p>
       <p>LangGraph ReAct agent with docstring tool-gating and thread-safe ChromaDB client tracing via OpenTelemetry.</p>
       <h4><code>LangGraph</code> <code>ChromaDB</code> <code>OpenTelemetry</code></h4>
       <div align="right">
@@ -54,7 +57,7 @@
     </td>
     <td width="50%" valign="top">
       <h2><a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank">RetainOps</a></h2>
-      <p><kbd>63.8% revenue-at-risk captured</kbd></p>
+      <p><img src="https://img.shields.io/badge/63.8%25%20revenue--at--risk%20captured-2ea44f?style=flat-square" alt="metric" /></p>
       <p>Targeted top 20% of customers via a custom Master Model Score across 5 tuned classifiers. Improved reliability by engineering 9 features from 7,100+ records, mitigating a 3:1 imbalance with SMOTE and SHAP.</p>
       <h4><code>React</code> <code>FastAPI</code> <code>Scikit-learn</code> <code>SHAP</code></h4>
       <div align="right">
@@ -72,7 +75,12 @@
 
 <!-- FUTURE:OPEN_SOURCE:START -->
 <!-- FUTURE:OPEN_SOURCE:END -->
+
+<br><br>
+
 ---
+
+<br>
 
 ## <div align="center">`~/algorithmic_engine`</div>
 
@@ -110,8 +118,11 @@
 <!-- FUTURE:HACKATHONS:START -->
 <!-- FUTURE:HACKATHONS:END -->
 
-<br>
+<br><br>
+
 ---
+
+<br>
 
 <!-- FUTURE:STATS_RADAR:START it stats like stars etc etc-->
 <!-- FUTURE:STATS_RADAR:END -->
@@ -124,7 +135,7 @@
 ## <div align="center">`~/about_me`</div>
 
 <div align="center">
-  <img src="assets/portrait-binary-color.svg" width="280" alt="Aditya Chauhan" />
+  <img src="assets/portrait-binary-color.svg" width="400" alt="Aditya Chauhan" />
 </div>
 
 <br>
@@ -135,7 +146,7 @@
   <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar, Final Year</li>
   <li>💼 <b>Experience:</b>
     <ul>
-      <li>Ex - Software Engineer Intern @ <a href="https://www.accenture.com/in-en">Accenture</a>, Bangalore (May-Aug 2026)</li>
+      <li>Ex - Software Engineer Intern @ <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>, Bangalore (May-Aug 2026)</li>
       <li>CP Team Lead @ <a href="https://gdg.community.dev/gdg-on-campus-dr-b-r-ambedkar-national-institute-of-technology-jalandhar-jalandhar-india/">Google Developer Group, NITJ</a></li>
     </ul>
   </li>
@@ -151,8 +162,11 @@
   <li>⚡ <b>Fun Fact:</b> I play with VFX to make superhero videos occasionally that further produce new creative ideas.</li>
 </ul>
 
-<br>
+<br><br>
+
 ---
+
+<br>
 
 ## <div align="center">`~/the_human`</div>
 
