@@ -23,19 +23,25 @@ def update_readme():
     cc_max = cc.get('maxRating') or 1661
     cc_stars = cc.get('maxStars') or '3-Star'
 
+    # Map CodeChef stars to actual star emojis
+    cc_stars_mapping = {
+        '1-Star': '★',
+        '2-Star': '★★',
+        '3-Star': '★★★',
+        '4-Star': '★★★★',
+        '5-Star': '★★★★★',
+        '6-Star': '★★★★★★',
+        '7-Star': '★★★★★★★'
+    }
+    cc_stars_emoji = cc_stars_mapping.get(cc_stars, '★★★')
+
     stats_html = f"""
-<ul>
-  <li><b>Meta Hacker Cup:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
-  <li><b>Flipkart GRiD:</b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
-  <li><b>CodeStorm:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
-</ul>
-
-<br>
-
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><img src="https://skillicons.dev/icons?i=leetcode" width="20" align="center" /> &nbsp;<b>LeetCode:</b> Achieved {lc.get('title') or 'Knight'} status (Max Rating: {lc_max})</li>
+  <li><img src="https://skillicons.dev/icons?i=leetcode" width="22" align="center" /> &nbsp;<b>LeetCode:</b> Achieved {lc.get('title') or 'Knight'} status (Max Rating: {lc_max})</li>
+  <br>
   <li><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" align="center" /> &nbsp;<b>Codeforces:</b> {cf_title} (Max Rating: {cf_max})</li>
-  <li><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" align="center" /> &nbsp;<b>CodeChef:</b> {cc_stars} (Max Rating: {cc_max})</li>
+  <br>
+  <li><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" align="center" /> &nbsp;<b>CodeChef:</b> {cc_stars_emoji} (Max Rating: {cc_max})</li>
 </ul>
 """
 
