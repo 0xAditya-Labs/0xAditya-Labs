@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm Aditya Chauhan ⚡</h1>
+  <h1>Hi, I'm Aditya Chauhan 👋</h1>
   <img src="https://komarev.com/ghpvc/?username=0xAditya-Labs&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" />
   <br><br>
 
-  <p><b>Final Year CSE Student @ NITJ | Ex-AEH Intern @ Accenture</b></p>
+  <h3>Final Year CSE Student @ NITJ | Ex-AEH Intern @ Accenture</h3>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+high-performance+concurrent+systems;Engineering+distributed+backend+systems;Shipping+production-ready+full-stack+products;Building+AI-powered+applications;Writing+code+that+scales+from+the+OS+layer+to+the+UI" alt="Typing animation" />
   </p>
@@ -11,16 +11,14 @@
     <a href="https://adityac.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio--adityac.codes-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/aditya-chauhan-nitj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:aditya.chauhan.nitj.ac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-    <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://www.linkedin.com/in/aditya-chauhan-nitj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://x.com/AdityaNitj1204" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>&nbsp;<a href="mailto:aditya.chauhan.nitj.ac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&emsp;&emsp;&emsp;<a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;<a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   </p>
 </div>
 
 <br>
+---
 
-## `~/what_i_built`
+## <div align="center">`~/what_i_built`</div>
 
 <table width="100%">
   <tr>
@@ -54,17 +52,18 @@
 </table>
 
 <br>
+---
 
-## `~/algorithmic_engine`
+## <div align="center">`~/algorithmic_engine`</div>
 
-### `/algorithmic_coding_competitions`
+### <div align="center">`/algorithmic_coding_competitions`</div>
 <ul>
   <li><b>Meta Hacker Cup:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
   <li><b>Flipkart GRiD:</b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
   <li><b>CodeStorm:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
 </ul>
 
-### `/coding_profiles`
+### <div align="center">`/coding_profiles`</div>
 <!-- STATS:START -->
 <ul style="list-style-type: none; padding-left: 0;">
   <li><img src="https://skillicons.dev/icons?i=leetcode" width="22" align="center" /> &nbsp;<b>LeetCode:</b> Achieved Knight status (Max Rating: 1965)</li>
@@ -76,8 +75,9 @@
 <!-- STATS:END -->
 
 <br>
+---
 
-## `~/the_arsenal`
+## <div align="center">`~/the_arsenal`</div>
 
 <table width="100%">
   <tr>
@@ -105,8 +105,9 @@
 </table>
 
 <br>
+---
 
-## `~/stats`
+## <div align="center">`~/stats`</div>
 
 <!-- FUTURE:STATS_RADAR:START -->
 <!-- FUTURE:STATS_RADAR:END -->
@@ -117,11 +118,12 @@
 </p>
 
 <br>
+---
 
-## `~/about_me`
+## <div align="center">`~/about_me`</div>
 
 <div align="center">
-  <img src="assets/portrait-v2-binary.svg" width="280" alt="Aditya Chauhan" />
+  <img src="assets/portrait-binary-color.svg" width="280" alt="Aditya Chauhan" />
 </div>
 
 <br>
@@ -141,8 +143,9 @@
 </ul>
 
 <br>
+---
 
-## `~/the_human`
+## <div align="center">`~/the_human`</div>
 
 I’m a nerd at heart — I love **maths and physics** just as much as I love coding and technology. I enjoy going down **research rabbit holes**, and when I’m not building something, there’s a good chance I’m **drawing** — usually a Pokémon, because apparently that’s my default creative mode.
 
