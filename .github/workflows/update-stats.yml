@@ -17,13 +17,25 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Check if should run
+        id: random_check
+        run: |
+          if [ $((RANDOM % 4)) -eq 0 ]; then
+            echo "run_it=true" >> $GITHUB_ENV
+          else
+            echo "run_it=false" >> $GITHUB_ENV
+          fi
+
       - name: Fetch CP Stats
-        run: python scripts/fetch_cp_stats.py
+        if: env.run_it == 'true' || github.event_name == 'workflow_dispatch'
+        run: python scripts/CP-stats/fetch_cp_stats.py
 
       - name: Update README
-        run: python scripts/update_readme.py
+        if: env.run_it == 'true' || github.event_name == 'workflow_dispatch'
+        run: python scripts/CP-stats/update_readme.py
 
       - name: Commit and Push Changes
+        if: env.run_it == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'

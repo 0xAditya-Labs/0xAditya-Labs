@@ -26,10 +26,16 @@ def update_readme():
     stats_html = f"""
 <ul>
   <li><b>Meta Hacker Cup:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
-  <li><b>LeetCode:</b> Achieved Knight status (Max Rating: {lc_max}), placing at Global Rank 315 (Top 1.5%) in Biweekly Contest 172.</li>
-  <li><b>Codeforces & CodeChef:</b> {cf_title} on Codeforces ({cf_max} max) | {cc_stars} on CodeChef ({cc_max} max).</li>
   <li><b>Flipkart GRiD:</b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
   <li><b>CodeStorm:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
+</ul>
+
+<br>
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><img src="https://skillicons.dev/icons?i=leetcode" width="20" align="center" /> &nbsp;<b>LeetCode:</b> Achieved {lc.get('title') or 'Knight'} status (Max Rating: {lc_max})</li>
+  <li><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" align="center" /> &nbsp;<b>Codeforces:</b> {cf_title} (Max Rating: {cf_max})</li>
+  <li><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" align="center" /> &nbsp;<b>CodeChef:</b> {cc_stars} (Max Rating: {cc_max})</li>
 </ul>
 """
 
