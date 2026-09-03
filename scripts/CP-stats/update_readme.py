@@ -39,19 +39,19 @@ def update_readme():
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp;
-    <font color="#2ea44f"><b>LeetCode</b></font> -- {lc.get('title') or 'Knight'} (Max Rating: {lc_max})&nbsp;
+    <b>LeetCode</b> -- {lc.get('title') or 'Knight'} (Max Rating: {lc_max})&nbsp;
     <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
   <br>
   <li>
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp;
-    <font color="#2ea44f"><b>Codeforces</b></font> -- {cf_title} (Max Rating: {cf_max})&nbsp;
+    <b>Codeforces</b> -- {cf_title} (Max Rating: {cf_max})&nbsp;
     <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
   <br>
   <li>
     <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp;
-    <font color="#2ea44f"><b>CodeChef</b></font> -- {cc_stars_emoji} (Max Rating: {cc_max})&nbsp;
+    <b>CodeChef</b> -- {cc_stars_emoji} (Max Rating: {cc_max})&nbsp;
     <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
 </ul>
@@ -61,9 +61,9 @@ def update_readme():
         content = f.read()
         
     pattern = r'(<!-- STATS:START -->)(.*?)(<!-- STATS:END -->)'
-    replacement = r'\1\n' + stats_html.strip() + r'\n\3'
     
-    new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    new_content = re.sub(pattern, lambda m: f"{m.group(1)}\n{stats_html.strip()}\n{m.group(3)}", content, flags=re.DOTALL)
+
     
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(new_content)
