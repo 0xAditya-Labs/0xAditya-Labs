@@ -13,7 +13,7 @@
   </p>
 </div>
 
-<br><br>
+<br>
 
 ---
 
@@ -76,7 +76,7 @@
 <!-- FUTURE:OPEN_SOURCE:START -->
 <!-- FUTURE:OPEN_SOURCE:END -->
 
-<br><br>
+<br>
 
 ---
 
@@ -118,7 +118,7 @@
 <!-- FUTURE:HACKATHONS:START -->
 <!-- FUTURE:HACKATHONS:END -->
 
-<br><br>
+<br>
 
 ---
 
@@ -162,7 +162,7 @@
   <li>⚡ <b>Fun Fact:</b> I play with VFX to make superhero videos occasionally that further produce new creative ideas.</li>
 </ul>
 
-<br><br>
+<br>
 
 ---
 
