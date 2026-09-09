@@ -26,7 +26,7 @@
   <tr>
     <td width="50%" valign="top">
       <h2><a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank">SwiftCache</a></h2>
-      <p><img src="https://img.shields.io/badge/15%2C000%2B%20QPS%20%7C%20%3C3ms%20p99%20latency-2ea44f?style=flat-square" alt="metric" /></p>
+      <p><img src="https://img.shields.io/badge/16%2C0000%2B%20QPS%20%7C%20%3C3ms%20p99%20latency-2ea44f?style=flat-square" alt="metric" /></p>
       <p>Thread-safe TCP-based concurrent LRU cache server supporting deterministic <b>O(1)</b> operations.</p>
       <h4><code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code></h4>
       <div align="right">
