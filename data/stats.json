@@ -4,15 +4,15 @@
     "maxRating": null
   },
   "codeforces": {
-    "currentRating": 1389,
+    "currentRating": 1394,
     "maxRating": 1418,
     "currentRank": "pupil",
     "maxRank": "specialist"
   },
   "codechef": {
-    "currentRating": 1593,
+    "currentRating": 1637,
     "maxRating": 1661,
-    "stars": "2-Star",
+    "stars": "3-Star",
     "maxStars": "3-Star"
   }
 }
