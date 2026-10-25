@@ -34,13 +34,13 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h2><a href="https://github.com/0xAditya-Labs/Interlock" target="_blank">Interlock</a></h2>
+      <h2><a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank">Interlock</a></h2>
       <p><img src="https://img.shields.io/badge/0%25%20msg%20loss%20%7C%20%3C50ms%20latency%20@%20500%2B%20clients-2ea44f?style=flat-square" alt="metric" /></p>
       <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p>
       <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4>
       <div align="right">
-        <a href="https://github.com/0xAditya-Labs/My-Chat-App" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
-        <a href="https://github.com/0xAditya-Labs/My-Chat-App" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
+        <a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
       </div>
     </td>
   </tr>
