@@ -86,9 +86,10 @@
 
 ### `/algorithmic_coding_competitions`
 <ul>
-  <li>🏆 <b>Meta Hacker Cup:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
-  <li>🏆 <b>Flipkart GRiD:</b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
-  <li>🏆 <b>CodeStorm:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
+  <li>🏆 <b>Adobe University Hackathon 2026:</b> Shortlisted for Round 2 (Top 1.5%) from 301K+ global applicants..</li>
+  <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> Semi-Finalist in 7.0 and 8.0 (consecutive years), placing in the top 0.5% among 3.2 lakh+ participants.</li>
+  <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
+  <li>🏆 <b>CodeStorm 2024:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
 </ul>
 
 ### `/coding_profiles`
