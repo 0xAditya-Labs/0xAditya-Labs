@@ -39,7 +39,7 @@
       <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p>
       <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4>
       <div align="right">
-        <a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://interlock-mv9m.onrender.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
         <a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
       </div>
     </td>
