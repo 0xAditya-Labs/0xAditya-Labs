@@ -1,185 +1,174 @@
-<div align="center">
-  <h1>Hi, I'm Aditya Chauhan 👋</h1>
-  <img src="https://komarev.com/ghpvc/?username=0xAditya-Labs&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" />
-  <br><br>
-
-  <h3>Final Year CSE Student @ NITJ | Ex-AEH Intern @ Accenture</h3>
-  <p><b>Open to - full-time SDE roles, 2027 | Winter Intern role 2027(Jan - June)</b></p>
-  <p>
-    <a href="https://adityac.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio--adityac.codes-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/aditya-chauhan-nitj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://x.com/AdityaNitj1204" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>&nbsp;<a href="mailto:aditya.chauhan.nitj.ac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;<a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  </p>
-</div>
-
-<br>
-
----
-
-<br>
-
-## <div align="center">`~/what_i_built`</div>
-
-### `/featured_projects`
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2><a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank">SwiftCache</a></h2>
-      <p><img src="https://img.shields.io/badge/16%2C0000%2B%20QPS%20%7C%20%3C3ms%20p99%20latency-2ea44f?style=flat-square" alt="metric" /></p>
-      <p>Thread-safe TCP-based concurrent LRU cache server supporting deterministic <b>O(1)</b> operations.</p>
-      <h4><code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code></h4>
-      <div align="right">
-        <a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h2><a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank">Interlock</a></h2>
-      <p><img src="https://img.shields.io/badge/0%25%20msg%20loss%20%7C%20%3C50ms%20latency%20@%20500%2B%20clients-2ea44f?style=flat-square" alt="metric" /></p>
-      <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p>
-      <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4>
-      <div align="right">
-        <a href="https://interlock-mv9m.onrender.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
-        <a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h2><a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank">ContextIQ</a></h2>
-      <p><img src="https://img.shields.io/badge/34%25%20token%20reduction%20%7C%2069%25%20latency%20slash-2ea44f?style=flat-square" alt="metric" /></p>
-      <p>LangGraph ReAct agent with docstring tool-gating and thread-safe ChromaDB client tracing via OpenTelemetry.</p>
-      <h4><code>LangGraph</code> <code>ChromaDB</code> <code>OpenTelemetry</code></h4>
-      <div align="right">
-        <a href="https://context-iq-frontend-seven.vercel.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
-        <a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h2><a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank">RetainOps</a></h2>
-      <p><img src="https://img.shields.io/badge/63.8%25%20revenue--at--risk%20captured-2ea44f?style=flat-square" alt="metric" /></p>
-      <p>Targeted top 20% of customers via a custom Master Model Score across 5 tuned classifiers. Improved reliability by engineering 9 features from 7,100+ records, mitigating a 3:1 imbalance with SMOTE and SHAP.</p>
-      <h4><code>React</code> <code>FastAPI</code> <code>Scikit-learn</code> <code>SHAP</code></h4>
-      <div align="right">
-        <a href="https://isp-customer-retention-recommender-chi.vercel.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
-        <a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- FUTURE:ARTICLES:START -->
-<!-- FUTURE:ARTICLES:END -->
-
-<br>
-
-<!-- FUTURE:OPEN_SOURCE:START -->
-<!-- FUTURE:OPEN_SOURCE:END -->
-
-<br>
-
----
-
-<br>
-
-## <div align="center">`~/algorithmic_engine`</div>
-
-### `/algorithmic_coding_competitions`
-<ul>
-  <li>🏆 <b>Adobe University Hackathon 2026:</b> Shortlisted for Round 2 (Top 1.5%) from 301K+ global applicants..</li>
-  <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> Semi-Finalist in 7.0 and 8.0, placing in the top 0.5% among 3.2 lakh+ participants.</li>
-  <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li>
-  <li>🏆 <b>CodeStorm 2024:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li>
-</ul>
-
-### `/coding_profiles`
-<!-- STATS:START -->
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp;
-    <b>LeetCode</b> -- Knight (Max Rating: 1965)&nbsp;
-    <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
-  </li>
-  <br>
-  <li>
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp;
-    <b>Codeforces</b> -- Specialist (Max Rating: 1418)&nbsp;
-    <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
-  </li>
-  <br>
-  <li>
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp;
-    <b>CodeChef</b> -- ★★★ (Max Rating: 1661)&nbsp;
-    <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
-  </li>
-</ul>
-<!-- STATS:END -->
-
-
-<!-- FUTURE:HACKATHONS:START -->
-<!-- FUTURE:HACKATHONS:END -->
-
-<br>
-
----
-
-<br>
-
-<!-- FUTURE:STATS_RADAR:START it stats like stars etc etc-->
-<!-- FUTURE:STATS_RADAR:END -->
-
-<!-- ADD EXPERIENCE -->
-<!-- ADD TECHH STACK/ARSENEL -->
-<!-- ADD ACHIEVEMENTS -->
-<!--  -->
-
-## <div align="center">`~/about_me`</div>
-
-<div align="center">
-  <img src="assets/portrait-binary-color.svg" width="400" alt="Aditya Chauhan" />
-</div>
-
-<br>
-
-<p>I build complete systems, not isolated features — I'm equally comfortable optimizing what happens at the OS/memory layer and what a user actually clicks on. My focus stays on the boundary most people skip: what makes a system correct and fast under real concurrent load, not just correct in a demo.</p>
-
-<ul>
-  <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar, Final Year</li>
-  <li>💼 <b>Experience:</b>
-    <ul>
-      <li>Ex - Software Engineer Intern @ <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>, Bangalore (May-Aug 2026)</li>
-      <li>CP Team Lead @ <a href="https://gdg.community.dev/gdg-on-campus-dr-b-r-ambedkar-national-institute-of-technology-jalandhar-jalandhar-india/">Google Developer Group, NITJ</a></li>
-    </ul>
-  </li>
-  <li>🧠 <b>Obsessions:
-  <ul>
-      <li>DSA & CP, competitive-programming-grade problem solving</li>
-      <li>Systems that don't lie to users under load — correctness under concurrency, not just happy-path demos</li>
-      <li>AI tools that remove friction, not thinking — no LLM-wrapper shipping</li>
-    </ul>
-  </li>
+<div align="left">
+  <img src="assets/portrait-binary-color.svg" align="right" width="350" alt="Aditya Chauhan" />
   
-  <li>🔍 <b>Ask me about:</b> concurrency handling, RAG chunking strategy, OS internals, DBMS recovery models to memory layout (ARIES), GenAI, React frontends</li>
-  <li>⚡ <b>Fun Fact:</b> I play with VFX to make superhero videos occasionally that further produce new creative ideas.</li>
-</ul>
+  <h1>Hi, I'm Aditya Chauhan 👋</h1>
+  <img src="https://komarev.com/ghpvc/?username=0xAditya-Labs&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" /> 
+  <br><br> 
+  
+  <h3>Final Year CSE Student @ NITJ | Ex-AEH Intern @ Accenture</h3> 
+  <p><b>Open to - full-time SDE roles, 2027 | Winter Intern role 2027(Jan - June)</b></p> 
+  
+  <p> 
+    <a href="https://adityac.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio--adityac.codes-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> 
+  </p> 
+  
+  <p> 
+    <a href="https://www.linkedin.com/in/aditya-chauhan-nitj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://x.com/AdityaNitj1204" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>&nbsp;
+    <a href="mailto:aditya.chauhan.nitj.ac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
+    <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a> 
+  </p> 
+</div> 
+<br> 
 
-<br>
+<!-- --- --> 
 
----
+<br> 
 
-<br>
+## <div align="center">`~/what_i_built`</div> 
 
-## <div align="center">`~/the_human`</div>
+### `/featured_projects` 
+<table width="100%"> 
+  <tr> 
+    <td width="50%" valign="top"> 
+      <h2><a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank">SwiftCache</a></h2> 
+      <p><img src="https://img.shields.io/badge/16%2C0000%2B%20QPS%20%7C%20%3C3ms%20p99%20latency-2ea44f?style=flat-square" alt="metric" /></p> 
+      <p>Thread-safe TCP-based concurrent LRU cache server supporting deterministic <b>O(1)</b> operations.</p> 
+      <h4><code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code></h4> 
+      <div align="right"> 
+        <a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a> 
+      </div> 
+    </td> 
+    <td width="50%" valign="top"> 
+      <h2><a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank">Interlock</a></h2> 
+      <p><img src="https://img.shields.io/badge/0%25%20msg%20loss%20%7C%20%3C50ms%20latency%20@%20500%2B%20clients-2ea44f?style=flat-square" alt="metric" /></p> 
+      <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p> 
+      <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4> 
+      <div align="right"> 
+        <a href="https://interlock-mv9m.onrender.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a> 
+      </div> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td width="50%" valign="top"> 
+      <h2><a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank">ContextIQ</a></h2> 
+      <p><img src="https://img.shields.io/badge/34%25%20token%20reduction%20%7C%2069%25%20latency%20slash-2ea44f?style=flat-square" alt="metric" /></p> 
+      <p>LangGraph ReAct agent with docstring tool-gating and thread-safe ChromaDB client tracing via OpenTelemetry.</p> 
+      <h4><code>LangGraph</code> <code>ChromaDB</code> <code>OpenTelemetry</code></h4> 
+      <div align="right"> 
+        <a href="https://context-iq-frontend-seven.vercel.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a> 
+      </div> 
+    </td> 
+    <td width="50%" valign="top"> 
+      <h2><a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank">RetainOps</a></h2> 
+      <p><img src="https://img.shields.io/badge/63.8%25%20revenue--at--risk%20captured-2ea44f?style=flat-square" alt="metric" /></p> 
+      <p>Targeted top 20% of customers via a custom Master Model Score across 5 tuned classifiers. Improved reliability by engineering 9 features from 7,100+ records, mitigating a 3:1 imbalance with SMOTE and SHAP.</p> 
+      <h4><code>React</code> <code>FastAPI</code> <code>Scikit-learn</code> <code>SHAP</code></h4> 
+      <div align="right"> 
+        <a href="https://isp-customer-retention-recommender-chi.vercel.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
+        <a href="https://github.com/0xAditya-Labs/ISP-Customer-retention-Recommender" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a> 
+      </div> 
+    </td> 
+  </tr> 
+</table> 
 
-I'm a nerd at heart — **maths, physics, and research rabbit holes** get me as excited as code does. When I'm not building something, there's a good chance I'm either **writing stories or drawing Pokémon** — my default creative modes.
+<!-- FUTURE:ARTICLES:START --> 
+<!-- FUTURE:ARTICLES:END --> 
 
-Outside of tech, I have way too much energy: you'll find me doing **badminton, swimming, dancing, or gymnastics.** People keep handing me responsibility, and I've learned to enjoy **bringing people together, unfurling positivity, and getting things done.**
+<br> 
 
-Switching off means the **MCU or an anime universe.** No exceptions.
+<!-- FUTURE:OPEN_SOURCE:START --> 
+<!-- FUTURE:OPEN_SOURCE:END --> 
 
-<div align="center">
-  <br>
+<br> 
+
+<!-- --- --> 
+
+<br> 
+
+## <div align="center">`~/algorithmic_engine`</div> 
+
+### `/algorithmic_coding_competitions` 
+<ul> 
+  <li>🏆 <b>Adobe University Hackathon 2026:</b> Shortlisted for Round 2 (Top 1.5%) from 301K+ global applicants..</li> 
+  <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> Semi-Finalist in 7.0 and 8.0, placing in the top 0.5% among 3.2 lakh+ participants.</li> 
+  <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li> 
+  <li>🏆 <b>CodeStorm 2024:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li> 
+</ul> 
+
+### `/coding_profiles` 
+<!-- STATS:START --> 
+<ul style="list-style-type: none; padding-left: 0;"> 
+  <li> 
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp; <b>LeetCode</b> -- Knight (Max Rating: 1965)&nbsp; <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a> 
+  </li> 
+  <br> 
+  <li> 
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp; <b>Codeforces</b> -- Specialist (Max Rating: 1418)&nbsp; <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a> 
+  </li> 
+  <br> 
+  <li> 
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp; <b>CodeChef</b> -- ★★★ (Max Rating: 1661)&nbsp; <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a> 
+  </li> 
+</ul> 
+<!-- STATS:END --> 
+
+<!-- FUTURE:HACKATHONS:START --> 
+<!-- FUTURE:HACKATHONS:END --> 
+
+<br> 
+
+<!-- --- --> 
+
+<br> 
+
+<!-- FUTURE:STATS_RADAR:START it stats like stars etc etc--> 
+<!-- FUTURE:STATS_RADAR:END --> 
+<!-- ADD EXPERIENCE --> 
+<!-- ADD TECHH STACK/ARSENEL --> 
+<!-- ADD ACHIEVEMENTS --> 
+<!--  --> 
+
+## <div align="center">`~/about_me`</div> 
+
+<br> 
+<p>I build complete systems, not isolated features — I'm equally comfortable optimizing what happens at the OS/memory layer and what a user actually clicks on. My focus stays on the boundary most people skip: what makes a system correct and fast under real concurrent load, not just correct in a demo.</p> 
+
+<ul> 
+  <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar, Final Year</li> 
+  <li>💼 <b>Experience:</b> 
+    <ul> 
+      <li>Ex - Software Engineer Intern @ <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>, Bangalore (May-Aug 2026)</li> 
+      <li>CP Team Lead @ <a href="https://gdg.community.dev/gdg-on-campus-dr-b-r-ambedkar-national-institute-of-technology-jalandhar-jalandhar-india/">Google Developer Group, NITJ</a></li> 
+    </ul> 
+  </li> 
+  <li>🧠 <b>Obsessions:</b>
+    <ul> 
+      <li>DSA & CP, competitive-programming-grade problem solving</li> 
+      <li>Systems that don't lie to users under load — correctness under concurrency, not just happy-path demos</li> 
+      <li>AI tools that remove friction, not thinking — no LLM-wrapper shipping</li> 
+    </ul> 
+  </li> 
+  <li>🔍 <b>Ask me about:</b> concurrency handling, RAG chunking strategy, OS internals, DBMS recovery models to memory layout (ARIES), GenAI, React frontends</li> 
+  <li>⚡ <b>Fun Fact:</b> I play with VFX to make superhero videos occasionally that further produce new creative ideas.</li> 
+</ul> 
+
+<br> 
+
+<!-- --- --> 
+
+<br> 
+
+## <div align="center">`~/the_human`</div> 
+
+I'm a nerd at heart — **maths, physics, and research rabbit holes** get me as excited as code does. When I'm not building something, there's a good chance I'm either **writing stories or drawing Pokémon** — my default creative modes. Outside of tech, I have way too much energy: you'll find me doing **badminton, swimming, dancing, or gymnastics.** People keep handing me responsibility, and I've learned to enjoy **bringing people together, unfurling positivity, and getting things done.** Switching off means the **MCU or an anime universe.** No exceptions. 
+
+<div align="center"> 
+  <br> 
   <i>Lets connect 🤝</i> 
-  <br/><br/>
-  <i>Jai Parmatma</i> 🪈🦚
+  <br/><br/> 
+  <i>Jai Parmatma</i> 🪈🦚 
 </div>
