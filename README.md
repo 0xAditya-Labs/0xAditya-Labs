@@ -100,20 +100,26 @@
 </ul> 
 
 ### `/coding_profiles` 
-<!-- STATS:START --> 
-<ul style="list-style-type: none; padding-left: 0;"> 
-  <li> 
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp; <b>LeetCode</b> -- Knight (Max Rating: 1965)&nbsp; <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a> 
-  </li> 
-  <br> 
-  <li> 
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp; <b>Codeforces</b> -- Specialist (Max Rating: 1418)&nbsp; <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a> 
-  </li> 
-  <br> 
-  <li> 
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp; <b>CodeChef</b> -- ★★★ (Max Rating: 1661)&nbsp; <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a> 
-  </li> 
-</ul> 
+<!-- STATS:START -->
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp;
+    <b>LeetCode</b> -- Knight (Max Rating: 1965)&nbsp;
+    <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
+  <br>
+  <li>
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp;
+    <b>Codeforces</b> -- Specialist (Max Rating: 1418)&nbsp;
+    <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
+  <br>
+  <li>
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" align="center" />&nbsp;
+    <b>CodeChef</b> -- ★★★ (Max Rating: 1661)&nbsp;
+    <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
+  </li>
+</ul>
 <!-- STATS:END --> 
 
 <!-- FUTURE:HACKATHONS:START --> 
