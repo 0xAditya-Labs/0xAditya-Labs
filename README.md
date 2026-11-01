@@ -8,7 +8,7 @@
   <h3> Software Engineer | Final-Year CSE Student @ NITJ  </h3> 
   <p> Building concurrent systems, distributed backends and performance-critical software. </p>
   <p> Ex-Software Engineering Intern @ Accenture </p>
-  <p><b>Open to Full-Time SDE Roles (2027) | Intern Opportunities (Jan–Jun 2027) </b></p> 
+  <p><b>Open to Full-Time SDE Roles (2027) and Internships (Jan–Jun 2027) </b></p> 
   
   <p> 
     <a href="https://adityac.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio--adityac.codes-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> 
@@ -16,8 +16,7 @@
   
   <p> 
     <a href="https://www.linkedin.com/in/aditya-chauhan-nitj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="https://x.com/AdityaNitj1204" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>&nbsp;
-    <a href="mailto:aditya.chauhan.nitj.ac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+    <a href="mailto:aditya.chauhan.nitj.ac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
     <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
     <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a> 
   </p> 
@@ -167,7 +166,7 @@
     </ul> 
   </li> 
   <li>🔍 <b>Ask me about:</b> concurrency handling, RAG chunking strategy, OS internals, DBMS recovery models to memory layout (ARIES), GenAI, React frontends</li> 
-  <li>⚡ <b>Fun Fact:</b> I play with VFX to make superhero videos occasionally that further produce new creative ideas.</li> 
+  <li>🎧 <b>Soundtrack:</b> anything that sounds like an epic movie finale (Sia, The Score, Alan Walker)</li>
 </ul> 
 
 <br> 
@@ -178,13 +177,25 @@
 
 ## <div align="center">`~/the_human`</div> 
 
-I'm a nerd at heart — **maths, physics, and research rabbit holes** get me as excited as code does. When I'm not building something, there's a good chance I'm either **writing stories or drawing Pokémon** — my default creative modes. Outside of tech, I have way too much energy: you'll find me doing **badminton, swimming, dancing, or gymnastics.** People keep handing me responsibility, and I've learned to enjoy **bringing people together, unfurling positivity, and getting things done.** Switching off means the **MCU or an anime universe.** No exceptions. 
+<!-- I'm a nerd at heart — **maths, physics, and research rabbit holes** get me as excited as code does. When I'm not building something, there's a good chance I'm either **writing stories or drawing Pokémon** — my default creative modes. Outside of tech, I have way too much energy: you'll find me doing **badminton, swimming, dancing, or gymnastics.** People keep handing me responsibility, and I've learned to enjoy **bringing people together, unfurling positivity, and getting things done.** Switching off means the **MCU or an anime universe.** No exceptions. -->
+
+I'm a nerd at heart: **maths, physics, and research rabbit holes** excite me as much as code.
+
+Off the keyboard, I make things: stories, drawing Pokémon, cardboard builds, and VFX videos where I play the superhero. Gymnastics, dancing, and badminton burn off the rest of the energy.
+
+What I love most is talking to ambitious people and building something together, seriously and make real friends along the way. 
+If that's you, tell me what you're making that has nothing to do with your day job.
+
 
 <div align="center">
   <br>
+  <b>Let's connect</b>
+  <br><br>
+  <a href="https://www.linkedin.com/in/aditya-chauhan-nitj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/AdityaNitj1204"><img src="https://img.shields.io/badge/X-6E7681?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="mailto:aditya.chauhan.nitj.ac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <br><br>
   <i>"The truth is... I am Iron Man."</i>
-  <br><br>
-  <b>Let's connect.</b>
-  <br><br>
-  <i>Jai Parmatma</i> 🪈🦚
+  <br>
+  <i>Jai Parmatma</i> 🪄🦚
 </div>
