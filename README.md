@@ -8,7 +8,7 @@
   <h3> Software Engineer | Final-Year CSE Student @ NITJ  </h3> 
   <p> Building concurrent systems, distributed backends and performance-critical software. </p>
   <p> Ex-Software Engineering Intern @ Accenture </p>
-  <p><b>Open to - full-time SDE roles, 2027 | Winter Intern role 2027(Jan - June)</b></p> 
+  <p><b>Open to Full-Time SDE Roles (2027) | Intern Opportunities (Jan–Jun 2027) </b></p> 
   
   <p> 
     <a href="https://adityac.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio--adityac.codes-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> 
@@ -122,6 +122,28 @@
     <a href="https://www.codechef.com/users/chauhanaditya5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
 </ul>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/Aditya_chauhan__/">
+          <img src="https://leetcard.jacoblin.cool/Aditya_chauhan__?theme=dark&font=baloo&ext=activity"
+               alt="LeetCode Statistics" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://codeforces.com/profile/Adree">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Adree&theme=github_dark"
+               alt="Codeforces Statistics" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- STATS:END --> 
 
 <!-- FUTURE:HACKATHONS:START --> 
