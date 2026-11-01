@@ -95,7 +95,7 @@
 
 ### `/algorithmic_coding_competitions` 
 <ul> 
-  <li>🏆 <b>Adobe University Hackathon 2026:</b> Shortlisted for Round 2 (Top 1.5%) from 301K+ global applicants..  <a href="https://drive.google.com/file/d/14IOH9KdQtAjKinFuqg9G0FBDU7ex79DB/view" target="_blank">🔗</a></li> 
+  <li>🏆 <b>Adobe University Hackathon 2026:</b> <i>Shortlisted for Round 2 (Top 1.5%)</i> from 301K+ global applicants..  <a href="https://drive.google.com/file/d/14IOH9KdQtAjKinFuqg9G0FBDU7ex79DB/view" target="_blank">🔗</a></li> 
   <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> Semi-Finalist in 7.0 and 8.0, placing in the top 0.5% among 3.2 lakh+ participants. <a href="https://drive.google.com/file/d/1fo9QLQ7mtOa8pIQBL6QhXwJf_wiiQlQo/view" target="_blank">🔗</a> </li> 
   <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.  <a href="https://drive.google.com/file/d/1y4h0AfrGKVywfINEaF8LWSFVV2ev-pU3/view" target="_blank">🔗</a> </li> 
   <li>🏆 <b>CodeStorm 2024:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest. <a href="https://drive.google.com/file/d/1NspDFZEjo7HGUsO7XCMoB5LwtygitteN/view" target="_blank">🔗</a> </li> 
@@ -106,7 +106,7 @@
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp;
-    <b>LeetCode</b> -- Knight (Max Rating: 1965)&nbsp;
+    <b>LeetCode</b> -- Knight (Max Rating: 1982)&nbsp;
     <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
   <br>
@@ -129,10 +129,13 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://leetcode.com/u/Aditya_chauhan__/">
+        <!-- <a href="https://leetcode.com/u/Aditya_chauhan__/">
           <img src="https://leetcard.jacoblin.cool/Aditya_chauhan__?theme=dark&font=baloo&ext=activity"
                alt="LeetCode Statistics" width="100%" />
-        </a>
+        </a> -->
+        <a href="https://leetcode.com/u/Aditya_chauhan__/">
+        <img src="https://leetcard.jacoblin.cool/Aditya_chauhan__?theme=dark&font=inter&ext=contest&radius=12" alt="LeetCode Contest Rating History"/> </a>
+<!-- </div> -->
       </td>
       <td align="center" width="50%">
         <a href="https://codeforces.com/profile/Adree">
@@ -143,6 +146,7 @@
     </tr>
   </table>
 </div>
+
 
 <!-- STATS:END --> 
 
