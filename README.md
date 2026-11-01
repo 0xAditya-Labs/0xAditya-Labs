@@ -153,21 +153,22 @@
 <ul> 
   <li>🎓 <b>Education:</b> B.Tech in CSE @ NIT Jalandhar, Final Year</li> 
   <li>💼 <b>Experience:</b> 
-    <ul> 
-      <li>Ex - Software Engineer Intern @ <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>, Bangalore (May-Aug 2026)</li> 
-      <li>CP Team Lead @ <a href="https://gdg.community.dev/gdg-on-campus-dr-b-r-ambedkar-national-institute-of-technology-jalandhar-jalandhar-india/">Google Developer Group, NITJ</a></li> 
-    </ul> 
-  </li> 
+    <ul>
+  <li>💼 <b>Experience:</b>
+    <ul>
+      <li>Ex-SDE Intern @ <a href="https://www.accenture.com/in-en">Accenture</a>, Bangalore (May–Aug 2026), GenAI/RAG document intelligence</li>
+      <li>CP Team Lead @ <a href="https://gdg.community.dev/gdg-on-campus-dr-b-r-ambedkar-national-institute-of-technology-jalandhar-jalandhar-india/">Google Developer Group, NITJ</a></li>
+    </ul>
+  </li>
   <li>🧠 <b>Obsessions:</b>
-    <ul> 
-      <li>DSA & CP, competitive-programming-grade problem solving</li> 
-      <li>Systems that don't lie to users under load — correctness under concurrency, not just happy-path demos</li> 
-      <li>AI tools that remove friction, not thinking — no LLM-wrapper shipping</li> 
-    </ul> 
-  </li> 
-  <li>🔍 <b>Ask me about:</b> concurrency handling, RAG chunking strategy, OS internals, DBMS recovery models to memory layout (ARIES), GenAI, React frontends</li> 
+    <ul>
+      <li>DSA and CP-grade problem solving</li>
+      <li>Systems that stay correct under load, not just in happy-path demos</li>
+    </ul>
+  </li>
   <li>🎧 <b>Soundtrack:</b> anything that sounds like an epic movie finale (Sia, The Score, Alan Walker)</li>
-</ul> 
+  <li>🔍 <b>Ask me about:</b> concurrency, OS internals, DBMS recovery (ARIES), RAG chunking, React frontends</li>
+</ul>
 
 <br> 
 
