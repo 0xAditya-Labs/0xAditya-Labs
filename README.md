@@ -166,7 +166,7 @@
       <li>Systems that stay correct under load, not just in happy-path demos</li>
     </ul>
   </li>
-  <li>🎧 <b>Soundtrack:</b> anything that sounds like an epic movie finale (Sia, The Score, Alan Walker)</li>
+  <li>🎧 <b>Soundtrack:</b> anything that sounds like an epic movie finale (Sia, The Score, Diljit Dosanjh, Karan Aujla)</li>
   <li>🔍 <b>Ask me about:</b> concurrency, OS internals, DBMS recovery (ARIES), RAG chunking, React frontends</li>
 </ul>
 
