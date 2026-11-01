@@ -196,6 +196,10 @@ If that's you, tell me what you're making that has nothing to do with your day j
   <a href="https://x.com/AdityaNitj1204"><img src="https://img.shields.io/badge/X-6E7681?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
   <a href="mailto:aditya.chauhan.nitj.ac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+
   <i>"The truth is... I am Iron Man."</i>
   <br>
   <i>Jai Parmatma</i> 🪄🦚
