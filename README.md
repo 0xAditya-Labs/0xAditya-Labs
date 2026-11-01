@@ -95,10 +95,10 @@
 
 ### `/algorithmic_coding_competitions` 
 <ul> 
-  <li>🏆 <b>Adobe University Hackathon 2026:</b> <i>Shortlisted for Round 2 (Top 1.5%)</i> from 301K+ global applicants..  <a href="https://drive.google.com/file/d/14IOH9KdQtAjKinFuqg9G0FBDU7ex79DB/view" target="_blank">🔗</a></li> 
-  <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> Semi-Finalist in 7.0 and 8.0, placing in the top 0.5% among 3.2 lakh+ participants. <a href="https://drive.google.com/file/d/1fo9QLQ7mtOa8pIQBL6QhXwJf_wiiQlQo/view" target="_blank">🔗</a> </li> 
-  <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.  <a href="https://drive.google.com/file/d/1y4h0AfrGKVywfINEaF8LWSFVV2ev-pU3/view" target="_blank">🔗</a> </li> 
-  <li>🏆 <b>CodeStorm 2024:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest. <a href="https://drive.google.com/file/d/1NspDFZEjo7HGUsO7XCMoB5LwtygitteN/view" target="_blank">🔗</a> </li> 
+  <li>🏆 <b>Adobe University Hackathon 2026:</b> <i>Shortlisted for Round 2 (Top 1.5%)</i> from 301K+ global applicants.  <a href="https://drive.google.com/file/d/14IOH9KdQtAjKinFuqg9G0FBDU7ex79DB/view" target="_blank">🔗</a></li> 
+  <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> <i>Semi-Finalist in 7.0 and 8.0</i>, placing in the <i>top 0.5%</i> among 3.2 lakh+ participants. <a href="https://drive.google.com/file/d/1fo9QLQ7mtOa8pIQBL6QhXwJf_wiiQlQo/view" target="_blank">🔗</a> </li> 
+  <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing <i>Global Rank 3223 (AIR 875)</i> out of thousands of competitors.  <a href="https://drive.google.com/file/d/1y4h0AfrGKVywfINEaF8LWSFVV2ev-pU3/view" target="_blank">🔗</a> </li> 
+  <li>🏆 <b>CodeStorm 2024:</b> Secured <i>3rd place</i> in GDSC NIT Jalandhar's competitive programming contest. <a href="https://drive.google.com/file/d/1NspDFZEjo7HGUsO7XCMoB5LwtygitteN/view" target="_blank">🔗</a> </li> 
 </ul> 
 
 ### `/coding_profiles` 
@@ -106,13 +106,13 @@
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" align="center" />&nbsp;
-    <b>LeetCode</b> -- Knight (Max Rating: 1982)&nbsp;
+    <b>LeetCode</b> -- Knight (Max Rating: 1982, Top 2.93%, 800+ Q solved)&nbsp;
     <a href="https://leetcode.com/u/Aditya_chauhan__/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
   <br>
   <li>
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20" align="center" />&nbsp;
-    <b>Codeforces</b> -- Specialist (Max Rating: 1418)&nbsp;
+    <b>Codeforces</b> -- Specialist (Max Rating: 1418, 75+ rated contests, ~500 Q solved)&nbsp;
     <a href="https://codeforces.com/profile/Adree" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="14" align="center" /></a>
   </li>
   <br>
@@ -123,29 +123,9 @@
   </li>
 </ul>
 
-<br>
+<!-- ADD THE GRAPHS/STATS OF CF AND LC WHEN U BECOME EXPERT IN CF AND GAURDIAN IN LC USING JACOB CARDS ==> Check commit : d761400a4b5a9b94e0b4f700e9ad995491ec5289-- >
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <!-- <a href="https://leetcode.com/u/Aditya_chauhan__/">
-          <img src="https://leetcard.jacoblin.cool/Aditya_chauhan__?theme=dark&font=baloo&ext=activity"
-               alt="LeetCode Statistics" width="100%" />
-        </a> -->
-        <a href="https://leetcode.com/u/Aditya_chauhan__/">
-        <img src="https://leetcard.jacoblin.cool/Aditya_chauhan__?theme=dark&font=inter&ext=contest&radius=12" alt="LeetCode Contest Rating History"/> </a>
-<!-- </div> -->
-      </td>
-      <td align="center" width="50%">
-        <a href="https://codeforces.com/profile/Adree">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Adree&theme=github_dark"
-               alt="Codeforces Statistics" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
 
 
 <!-- STATS:END --> 
@@ -200,9 +180,11 @@
 
 I'm a nerd at heart — **maths, physics, and research rabbit holes** get me as excited as code does. When I'm not building something, there's a good chance I'm either **writing stories or drawing Pokémon** — my default creative modes. Outside of tech, I have way too much energy: you'll find me doing **badminton, swimming, dancing, or gymnastics.** People keep handing me responsibility, and I've learned to enjoy **bringing people together, unfurling positivity, and getting things done.** Switching off means the **MCU or an anime universe.** No exceptions. 
 
-<div align="center"> 
-  <br> 
-  <i>Lets connect 🤝</i> 
-  <br/><br/> 
-  <i>Jai Parmatma</i> 🪈🦚 
+<div align="center">
+  <br>
+  <i>"The truth is... I am Iron Man."</i>
+  <br><br>
+  <b>Let's connect.</b>
+  <br><br>
+  <i>Jai Parmatma</i> 🪈🦚
 </div>
