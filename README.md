@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=0xAditya-Labs&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" /> 
   <br><br> 
   
-  <h3>Final Year CSE Student @ NITJ | Ex-AEH Intern @ Accenture</h3> 
+  <h3> Software Engineer | Final-Year CSE Student @ NITJ  </h3> 
+  <p> Building concurrent systems, distributed backends and performance-critical software. </p>
+  <p> Ex-Software Engineering Intern @ Accenture </p>
   <p><b>Open to - full-time SDE roles, 2027 | Winter Intern role 2027(Jan - June)</b></p> 
   
   <p> 
@@ -33,8 +35,8 @@
   <tr> 
     <td width="50%" valign="top"> 
       <h2><a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank">SwiftCache</a></h2> 
-      <p><img src="https://img.shields.io/badge/16%2C0000%2B%20QPS%20%7C%20%3C3ms%20p99%20latency-2ea44f?style=flat-square" alt="metric" /></p> 
-      <p>Thread-safe TCP-based concurrent LRU cache server supporting deterministic <b>O(1)</b> operations.</p> 
+      <p><img src="https://img.shields.io/badge/160%2C000%2B%20QPS%20%7C%20p99%20%3C0.24ms-2ea44f?style=flat-square" alt="160,000+ QPS, p99 below 0.24ms" /></p>
+      <p> C++17 concurrent TCP cache server with sharded LRU, TTL eviction and thread-safe client handling. </p>
       <h4><code>C++</code> <code>TCP/HTTP</code> <code>Concurrency</code></h4> 
       <div align="right"> 
         <a href="https://github.com/0xAditya-Labs/SwiftCache" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" /></a> 
@@ -42,8 +44,8 @@
     </td> 
     <td width="50%" valign="top"> 
       <h2><a href="https://github.com/0xAditya-Labs/Interlock/tree/distributed-backend" target="_blank">Interlock</a></h2> 
-      <p><img src="https://img.shields.io/badge/0%25%20msg%20loss%20%7C%20%3C50ms%20latency%20@%20500%2B%20clients-2ea44f?style=flat-square" alt="metric" /></p> 
-      <p>Full-stack distributed messaging platform — React UI to Redis Pub/Sub backbone. Hardened multi-tab presence state.</p> 
+      <p><img src="https://img.shields.io/badge/100%25%20Delivery%20%7C%2035ms%20p95-2ea44f?style=flat-square" alt="100% message delivery, 35ms p95" /></p>
+      <p> Distributed real-time messaging platform using WebSockets and Redis Pub/Sub, with Redis-backed multi-tab presence. </p>
       <h4><code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>JWT</code></h4> 
       <div align="right"> 
         <a href="https://interlock-mv9m.onrender.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
@@ -54,8 +56,8 @@
   <tr> 
     <td width="50%" valign="top"> 
       <h2><a href="https://github.com/0xAditya-Labs/ContextIQ" target="_blank">ContextIQ</a></h2> 
-      <p><img src="https://img.shields.io/badge/34%25%20token%20reduction%20%7C%2069%25%20latency%20slash-2ea44f?style=flat-square" alt="metric" /></p> 
-      <p>LangGraph ReAct agent with docstring tool-gating and thread-safe ChromaDB client tracing via OpenTelemetry.</p> 
+      <p> <img src="https://img.shields.io/badge/34%25%20Fewer%20Tokens%20%7C%2069%25%20Lower%20Search%20Latency-2ea44f?style=flat-square" alt="34% token reduction, 69% lower vector search latency" /> </p>
+      <p> LangGraph ReAct agent with tool gating, optimized ChromaDB retrieval and OpenTelemetry observability. </p>
       <h4><code>LangGraph</code> <code>ChromaDB</code> <code>OpenTelemetry</code></h4> 
       <div align="right"> 
         <a href="https://context-iq-frontend-seven.vercel.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Icon_External_Link.svg" width="16" /></a> &nbsp;&nbsp; 
@@ -93,10 +95,10 @@
 
 ### `/algorithmic_coding_competitions` 
 <ul> 
-  <li>🏆 <b>Adobe University Hackathon 2026:</b> Shortlisted for Round 2 (Top 1.5%) from 301K+ global applicants..</li> 
-  <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> Semi-Finalist in 7.0 and 8.0, placing in the top 0.5% among 3.2 lakh+ participants.</li> 
-  <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.</li> 
-  <li>🏆 <b>CodeStorm 2024:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest.</li> 
+  <li>🏆 <b>Adobe University Hackathon 2026:</b> Shortlisted for Round 2 (Top 1.5%) from 301K+ global applicants..  <a href="https://drive.google.com/file/d/14IOH9KdQtAjKinFuqg9G0FBDU7ex79DB/view" target="_blank">🔗</a></li> 
+  <li>🏆 <b>Flipkart GRiD 2025 and 2026:</b> Semi-Finalist in 7.0 and 8.0, placing in the top 0.5% among 3.2 lakh+ participants. <a href="https://drive.google.com/file/d/1fo9QLQ7mtOa8pIQBL6QhXwJf_wiiQlQo/view" target="_blank">🔗</a> </li> 
+  <li>🏆 <b>Meta Hacker Cup 2025:</b> Advanced to Round 2, securing Global Rank 3223 (AIR 875) out of thousands of competitors.  <a href="https://drive.google.com/file/d/1y4h0AfrGKVywfINEaF8LWSFVV2ev-pU3/view" target="_blank">🔗</a> </li> 
+  <li>🏆 <b>CodeStorm 2024:</b> Secured 2nd place in GDSC NIT Jalandhar's competitive programming contest. <a href="https://drive.google.com/file/d/1NspDFZEjo7HGUsO7XCMoB5LwtygitteN/view" target="_blank">🔗</a> </li> 
 </ul> 
 
 ### `/coding_profiles` 
