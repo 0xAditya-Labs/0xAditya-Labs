@@ -82,6 +82,31 @@
 <br> 
 
 <!-- FUTURE:OPEN_SOURCE:START --> 
+### `/open_source_contributions`
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h2>
+        <a href="https://github.com/xerj-org/xerj" target="_blank">xerj</a>
+        <span style="font-size: 14px; font-weight: normal; color: #8b949e;">&nbsp;(Contributor)</span>
+      </h2>
+      <p>
+        <img src="https://img.shields.io/badge/%E2%98%85_19k%2B_Stars-E3B341?style=flat-square&logo=github&logoColor=white" alt="19k+ Stars" />
+        <img src="https://img.shields.io/badge/Corpus%20Hub-Indexed-2ea44f?style=flat-square" alt="Corpus Hub Indexed" />
+      </p>
+      <p>
+        Selected as an official reference contributor for the XERJ Corpus Hub (>19,000 GitHub stars). My implementation in 0xAditya-Labs/My_Portfolio (commit 4c18ca9098) was curated into the global memory index — enabling autonomous AI coding agents to search, cite, and retrieve production-grade TypeScript & 3D canvas patterns instead of hallucinating code.
+
+  <a href="https://hub.xerj.org/corpus/0xaditya-labs--my-portfolio" target="_blank">XERJ Corpus Hub</a>.
+      </p>
+      <h4><code>Open Source</code> <code>Corpus Index</code> <code>Systems</code></h4>
+      <div align="right">
+        <a href="https://hub.xerj.org/contributors/0xAditya-Labs" target="_blank"><img src="https://cdn.simpleicons.org/speedtest/8b949e" width="18" alt="Contributor Profile" /></a>&nbsp;
+        <a href="https://github.com/xerj-org/xerj" target="_blank"><img src="https://cdn.simpleicons.org/github/8b949e" width="18" alt="GitHub Repo" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 <!-- FUTURE:OPEN_SOURCE:END --> 
 
 <br> 
